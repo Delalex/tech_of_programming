@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Seminar_4">
+      <UniqueIdentifier>{3e50c528-a67b-4d65-b022-7fd2c50e856f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Seminar_3">
+      <UniqueIdentifier>{bac5eef4-33ea-4dce-a514-4571643a2b4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Seminar_5">
+      <UniqueIdentifier>{9399a45f-9117-4829-89a6-01717e122a80}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="CatchErrors.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="CountMax.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugOutput.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayMaxStats.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplaySortedArray.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayZeroStats.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="GetComposition.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="GetMax.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="GetZeroCount.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="GetZeroInterval.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="GetZeroPos.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="main_S3.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="SetArraySize.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="SortArray.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadFile.cpp">
+      <Filter>Seminar_5</Filter>
+    </ClCompile>
+    <ClCompile Include="main_S5.cpp">
+      <Filter>Seminar_5</Filter>
+    </ClCompile>
+    <ClCompile Include="main_menu.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="SetMatrixSize.cpp">
+      <Filter>Seminar_4</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckMatrixSize.cpp">
+      <Filter>Seminar_4</Filter>
+    </ClCompile>
+    <ClCompile Include="table_of_actions.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_s3.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_s5.cpp">
+      <Filter>Seminar_5</Filter>
+    </ClCompile>
+    <ClCompile Include="SetArray.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="showArray.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_s4.cpp">
+      <Filter>Seminar_4</Filter>
+    </ClCompile>
+    <ClCompile Include="setupLenght.cpp">
+      <Filter>Seminar_5</Filter>
+    </ClCompile>
+    <ClCompile Include="WordCount.cpp">
+      <Filter>Seminar_5</Filter>
+    </ClCompile>
+    <ClCompile Include="showIndexOfZeros.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="showZeroInterval.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="showZeroCount.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="showComposition.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="showMax.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="showMaxCount.cpp">
+      <Filter>Seminar_3</Filter>
+    </ClCompile>
+    <ClCompile Include="choose_type.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Compare.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
+    <ClCompile Include="Compare_line_to_column.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
+    <ClCompile Include="Enter_mass.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
+    <ClCompile Include="find_negative.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
+    <ClCompile Include="main_S4.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
+    <ClCompile Include="presence_of_a_match.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
+    <ClCompile Include="Show_negative.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
+    <ClCompile Include="Summ.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main_library.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Prototypes.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="templates.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
