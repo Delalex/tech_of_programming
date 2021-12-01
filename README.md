@@ -1,2 +1,2 @@
-# tech_of_programming
-## Develop, develop, develop !
+# ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ
+## А ну бегом за код !
