@@ -1,4 +1,5 @@
 #include "main_library.h"
+#include "main_S3.h"
 #include "main_S4.h"
 
 void MainMenu()
@@ -22,9 +23,9 @@ void MainMenu()
 			type = choose_type();
 			switch (type)
 			{
-			case '1': main_S3(); continue;
-			case '2': main_S3(); continue;
-			case '3': main_S3(); continue;
+			case '1': main_S3(1); continue;
+			case '2': main_S3(1.0f); continue;
+			case '3': main_S3(1.0); continue;
 			}
 
 			continue;
