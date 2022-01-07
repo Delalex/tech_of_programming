@@ -4,5 +4,6 @@
 **Я полностью изменил иерархию  проекта, теперь не придется скачивать все версии, ведь зачем нам это старье, правда же ?**
 **Немного поработал над общим видом репозитория !**
 
-CLI - https://github.com/Delalex/tech_of_cli            
-GUI - https://github.com/Delalex/tech_of_gui
+CLI - https://github.com/Delalex/tech_of_cli             
+GUI - https://github.com/Delalex/tech_of_gui                    
+myMusic(Course Job) - https://github.com/Delalex/myMusic
