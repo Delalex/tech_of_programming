@@ -5,5 +5,6 @@
 **Немного поработал над общим видом репозитория !**
 
 CLI - https://github.com/Delalex/tech_of_cli             
-GUI - https://github.com/Delalex/tech_of_gui                    
-myMusic(Course Job) - https://github.com/Delalex/myMusic
+GUI - https://github.com/Delalex/tech_of_gui                     
+myMusic(Course Job) - https://github.com/Delalex/myMusic                         
+myFarm(Course Job) - https://github.com/Delalex/myFarm
